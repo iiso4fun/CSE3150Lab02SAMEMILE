@@ -1,6 +1,7 @@
 # CSE3150Lab02SAMEMILE
 
-# Balanced Sequence Validator
+# Balanced Lists
+
 
 ## Description
 This project generates sequences of `1` and `-1` to test whether they maintain balance after shuffling. The program:
